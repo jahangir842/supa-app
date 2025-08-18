@@ -1,0 +1,15 @@
+**/node_modules
+**/.next
+**/out
+**/.git
+**/.github
+**/README.md
+**/.env*
+**/dist
+**/build
+**/.DS_Store
+**/coverage
+**/.vscode
+**/infra
+**/terraform.tfstate*
+**/.terraform
